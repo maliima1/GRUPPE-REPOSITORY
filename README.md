@@ -6,7 +6,7 @@
 | Sindre Norbom  | https://github.com/Sindreln/IND_REPOSITORY | 
 | Maria Flaa  | https://github.com/mafl97/Individuell- |
 | Amadeus Hovden | https://github.com/AmadeusHovden/IND-REPOSITORY |
-
+| Nicolai BJerregård | https://github.com/natb0412/REPO-IND | 
 
 # Opplevelser
 ## Burak
@@ -18,4 +18,5 @@
 # Amadeus
 ###### Burak kan mye om dette. Så prossesen var at Burak forklarte og hjalp alle. Derfor tok det litt tid siden han også måtte hjelpe en og en.  
 Min forståelse av git og github: 3
-
+# Nicolai
+# Brukt veldig lite git tidligere, men med go hjelp av Burak gikk det veldig greit :) Foreløpig forståelse ligger rundt 3.

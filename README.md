@@ -7,5 +7,4 @@
 
 # Opplevelser
 ## Burak
-# GRUPPE-3A-REPOSITORY
 ### Jeg har aldri brukt Mac før, dette var et problem for en stund

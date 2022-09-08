@@ -7,4 +7,6 @@
 
 # Opplevelser
 ## Burak
-### Jeg har aldri brukt Mac før, dette var et problem for en stund
+###### Jeg har aldri brukt Mac før, dette var et problem for en stund.  Vi hadde ``` git push ``` problemer pga brukerautentisering.
+
+

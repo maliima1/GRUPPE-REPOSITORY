@@ -20,3 +20,5 @@
 Min forståelse av git og github: 3
 # Nicolai
 # Brukt veldig lite git tidligere, men med go hjelp av Burak gikk det veldig greit :) Foreløpig forståelse ligger rundt 3.
+# Malin
+##### Brukte tid på å forstå det, men hjalp med videoer. Forståelse på 1-2, men hjalp etter jeg fikk det til

@@ -7,6 +7,7 @@
 | Maria Flaa  | https://github.com/mafl97/Individuell- |
 | Amadeus Hovden | https://github.com/AmadeusHovden/IND-REPOSITORY |
 | Nicolai BJerregård | https://github.com/natb0412/REPO-IND | 
+| Malin Marcussen | https://git@github.com/maliima1/IND-REPOSITORY | 
 
 # Opplevelser
 ## Burak
